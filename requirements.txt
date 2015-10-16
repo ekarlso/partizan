@@ -1,0 +1,11 @@
+pbr
+falcon
+sqlalchemy
+alembic
+PyMYSQL
+gunicorn
+os-testr
+oslo.config
+oslo.db
+oslo.log
+oslo.serialization
